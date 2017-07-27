@@ -1,0 +1,339 @@
+[09-Aug-2016 12:11:58 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[09-Aug-2016 12:11:58 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[09-Aug-2016 12:11:58 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[09-Aug-2016 12:11:58 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[09-Aug-2016 12:11:58 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 04:57:05 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 04:57:05 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 04:57:05 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 04:57:05 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 04:57:05 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 04:57:05 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 04:57:05 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 04:57:12 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 04:57:12 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 04:57:12 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 04:57:12 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 04:57:12 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 04:57:13 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 04:57:13 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 04:57:13 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 04:57:13 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 04:57:13 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 04:57:13 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 04:57:13 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 04:57:13 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 04:57:13 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 04:57:18 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 04:57:18 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 04:57:18 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 04:57:18 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 04:57:18 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 04:57:18 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 04:57:18 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 04:57:23 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 04:57:23 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 04:57:23 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 04:57:23 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 04:57:23 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 04:57:24 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 04:57:24 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 04:57:24 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 04:57:24 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 04:57:24 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 04:57:24 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 04:57:24 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 04:57:25 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 04:57:25 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 04:57:26 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 04:57:26 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 04:57:26 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 04:57:26 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 04:57:26 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 04:57:26 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 04:57:26 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 04:57:29 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 04:57:29 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 04:57:29 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 04:57:29 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 04:57:29 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 04:57:30 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 04:57:30 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 04:57:30 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 04:57:30 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 04:57:30 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 04:57:30 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 04:57:30 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 04:57:30 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 04:57:30 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 04:58:45 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 04:58:45 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 04:58:45 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 04:58:45 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 04:58:45 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 04:58:47 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 04:58:47 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:01:21 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:01:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:01:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:01:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:01:21 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:06:20 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:06:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:06:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:06:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:06:20 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:09:58 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:09:58 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:09:58 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:09:58 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:09:58 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:09:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/touchbas/kana_web/www/assets/themes/kana/functions.php:10) in /home/touchbas/kana_web/www/wp-includes/pluggable.php on line 1117
+[10-Aug-2016 05:10:04 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:10:04 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:10:04 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:10:04 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:10:04 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:10:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/touchbas/kana_web/www/assets/themes/kana/functions.php:10) in /home/touchbas/kana_web/www/wp-includes/pluggable.php on line 1117
+[10-Aug-2016 05:11:20 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:11:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:11:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:11:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:11:20 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:16:21 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:16:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:16:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:16:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:16:21 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:21:20 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:21:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:21:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:21:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:21:20 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:25:48 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:25:48 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:25:48 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:25:48 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:25:48 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:25:48 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:25:48 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:26:20 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:26:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:26:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:26:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:26:20 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:26:20 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:26:20 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:26:21 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:26:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:26:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:26:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:26:21 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:31:23 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:31:23 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:31:23 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:31:23 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:31:23 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:36:21 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:36:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:36:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:36:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:36:21 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:41:04 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:41:04 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:41:04 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:41:04 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:41:04 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:41:05 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:41:05 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:41:20 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:41:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:41:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:41:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:41:20 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:41:59 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:41:59 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:41:59 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:41:59 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:41:59 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:41:59 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:41:59 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:43:18 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:43:18 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:43:18 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:43:18 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:43:18 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:43:18 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:43:18 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:43:40 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:43:40 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:43:40 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:43:40 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:43:40 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:43:40 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:43:40 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:46:20 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:46:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:46:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:46:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:46:20 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:46:41 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:46:41 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:46:41 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:46:41 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:46:41 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:46:41 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:46:41 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:46:49 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:46:49 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:46:49 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:46:49 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:46:49 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:46:49 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:46:49 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:47:04 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:47:04 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:47:04 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:47:04 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:47:04 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:47:04 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:47:04 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:47:12 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:47:12 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:47:12 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:47:12 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:47:12 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:47:12 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:47:12 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:47:56 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:47:56 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:47:56 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:47:56 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:47:56 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:47:57 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:47:57 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:50:27 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:50:27 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:50:27 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:50:27 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:50:27 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:50:27 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:50:27 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:51:20 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:51:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:51:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:51:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:51:20 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:51:40 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:51:40 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:51:40 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:51:40 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:51:40 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:51:40 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:51:40 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:51:41 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:51:41 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:51:41 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:51:41 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:51:41 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:51:41 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:51:41 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:51:50 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:51:50 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:51:50 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:51:50 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:51:50 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:51:50 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:51:50 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:51:53 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:51:53 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:51:53 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:51:53 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:51:53 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:51:54 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:51:54 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:51:54 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:51:54 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:51:54 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:51:54 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:51:54 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:51:54 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:51:54 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:51:55 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:51:55 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:51:55 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:51:55 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:51:55 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:51:55 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:51:55 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:51:59 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:51:59 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:51:59 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:51:59 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:51:59 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:51:59 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:51:59 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:52:00 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:52:00 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:52:00 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:52:00 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:52:00 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 05:52:00 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 05:52:00 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 05:56:20 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 05:56:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 05:56:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 05:56:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 05:56:20 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 06:01:21 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 06:01:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 06:01:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 06:01:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 06:01:21 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 01:04:42 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/touchbas/kana_web/www/page-contact.php on line 6
+[10-Aug-2016 06:05:32 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 06:05:32 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 06:05:32 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 06:05:32 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 06:05:32 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 06:06:20 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 06:06:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 06:06:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 06:06:20 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 06:06:20 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 01:06:44 America/Chicago] PHP Parse error:  syntax error, unexpected '"https://api.postmarkapp.com/e' (T_CONSTANT_ENCAPSED_STRING) in /home/touchbas/kana_web/www/testemail.php on line 19
+[10-Aug-2016 06:11:21 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 06:11:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 06:11:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 06:11:21 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 06:11:21 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 06:13:41 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 06:13:41 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 06:13:41 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 06:13:41 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 06:13:41 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 06:13:44 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 06:13:44 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 06:13:44 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 06:13:44 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 06:13:44 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 06:14:40 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 06:14:40 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 06:14:40 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 06:14:40 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 06:14:40 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 06:14:40 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 06:14:40 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 06:14:50 UTC] PHP Notice:  Use of undefined constant ADMINFUNC - assumed 'ADMINFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 10
+[10-Aug-2016 06:14:50 UTC] PHP Notice:  Use of undefined constant THEMEFUNC - assumed 'THEMEFUNC' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 11
+[10-Aug-2016 06:14:50 UTC] PHP Notice:  Use of undefined constant THEMEFUNCTWITTER - assumed 'THEMEFUNCTWITTER' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 12
+[10-Aug-2016 06:14:50 UTC] PHP Notice:  Use of undefined constant THEMEFUNCPRICETABLE - assumed 'THEMEFUNCPRICETABLE' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 13
+[10-Aug-2016 06:14:50 UTC] PHP Notice:  Use of undefined constant THEMELINK - assumed 'THEMELINK' in /home/touchbas/kana_web/www/assets/themes/kana/functions.php on line 16
+[10-Aug-2016 06:14:50 UTC] PHP Notice:  the_content_rss is <strong>deprecated</strong> since version 2.9! Use the_content_feed instead. in /home/touchbas/kana_web/www/wp-includes/functions.php on line 3078
+[10-Aug-2016 06:14:50 UTC] PHP Notice:  Undefined variable: excerpt in /home/touchbas/kana_web/www/wp-includes/deprecated.php on line 1719
+[10-Aug-2016 07:49:32 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'set_html_content_type' not found or invalid function name in /home/touchbas/kana_web/www/wp-includes/plugin.php on line 192
+[21-Aug-2016 19:12:17 UTC] WordPress database error Disk full (/tmp/#sql_4f2f3_15.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (927) ORDER BY t.name ASC made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kana/page-careers.php'), get_footer, locate_template, load_template, require_once('/themes/kana/footer.php'), WP_Query->__construct, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms
+[21-Aug-2016 19:12:17 UTC] WordPress database error Disk full (/tmp/#sql_4f2f3_17.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (927) ORDER BY t.name ASC made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kana/page-products.php'), get_footer, locate_template, load_template, require_once('/themes/kana/footer.php'), WP_Query->__construct, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms
+[21-Aug-2016 19:12:30 UTC] WordPress database error Disk full (/tmp/#sql_4f2f3_26.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (927) ORDER BY t.name ASC made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kana/page-careers.php'), get_footer, locate_template, load_template, require_once('/themes/kana/footer.php'), WP_Query->__construct, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms
+[22-Aug-2016 18:12:54 UTC] WordPress database error Disk full (/tmp/#sql_4f2f3_1.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('game_cat') ORDER BY t.term_id ASC  made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kana/single.php'), wp_list_categories, get_categories, get_terms
+[22-Aug-2016 18:12:54 UTC] WordPress database error Disk full (/tmp/#sql_4f2f3_1.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SELECT t.*, tt.*, tr.object_id FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (927) ORDER BY t.name ASC made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/kana/single.php'), get_footer, locate_template, load_template, require_once('/themes/kana/footer.php'), WP_Query->__construct, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms
